@@ -1,0 +1,9 @@
+Crimson
+Orange
+Blue
+Cyan
+Silver
+Fuchsia
+Purple
+Brown
+Red
