@@ -2,6 +2,7 @@ Crimson
 Orange
 Blue
 Cyan
+Yellow
 Silver
 Fuchsia
 Purple
